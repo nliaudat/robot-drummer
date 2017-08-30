@@ -2,9 +2,10 @@
 ### An Arduino robotic drummer
 
 ## Functionalities : 
-* Infrared remote control
+* Infrared remote control to setup (speed, riff)
 * 25 preloaded riffs, based on ascii drum tablatures
 * Possible Midi source (direct usb connection, cause Bluetooth module is not finished)
+* LCD display with BPM
 
 
 ### Got inspiration from : 

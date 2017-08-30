@@ -16,15 +16,15 @@ made as project for carnival 2015
 * Snare drum
 
 ### Electronics : 
-4x 12V Door Lock Actuator (2.8$ x 4)
-1x 4-Channel Relay Module (2.2$)
-1x Arduino Mega 2560 (7$)
-1x LCD Display Module [1602] (2.15$)
-1x Infrared Remote Controller Kit (0.7$)
+* 4x 12V Door Lock Actuator (2.8$ x 4)
+* 1x 4-Channel Relay Module (2.2$)
+* 1x Arduino Mega 2560 (7$)
+* 1x LCD Display Module [1602] (2.15$)
+* 1x Infrared Remote Controller Kit (0.7$)
 
 ### Optional : 
-5V Voltage regulator (DIY manual included in Fritzing schema)
-RGB led strip
+* 5V Voltage regulator (DIY manual included in Fritzing schema) (0.5$)
+* RGB led strip (5$)
 
 ### Got inspiration from : 
 * [https://vitomakes.wordpress.com/2013/11/22/deep-inside-the-fork-o-drumbot/](https://vitomakes.wordpress.com/2013/11/22/deep-inside-the-fork-o-drumbot/)

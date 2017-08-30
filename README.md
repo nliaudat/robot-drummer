@@ -1,5 +1,5 @@
 # robot-drummer
-###Arduino robotic drummer
+### An Arduino robotic drummer
 
 ## Functionalities : 
 * Infrared remote control

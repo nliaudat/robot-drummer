@@ -2,7 +2,7 @@
 ### An Arduino robotic drummer
 made as project for carnival 2015
 
-[![N|Solid](https://github.com/nliaudat/robot-drummer/raw/master/drummer.png)]
+(https://github.com/nliaudat/robot-drummer/raw/master/drummer.png)
 
 
 ## Functionalities : 

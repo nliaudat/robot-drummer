@@ -1,5 +1,6 @@
 # robot-drummer
 ### An Arduino robotic drummer
+made as project for carnival 2015
 
 ## Functionalities : 
 * Infrared remote control to setup (speed, riff)

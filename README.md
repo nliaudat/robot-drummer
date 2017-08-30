@@ -34,5 +34,5 @@ made as project for carnival 2015
 * [http://www.instructables.com/id/Arduino-Controlled-Robotic-Drum/?ALLSTEPS](http://www.instructables.com/id/Arduino-Controlled-Robotic-Drum/?ALLSTEPS)
 * [http://www.instructables.com/id/Make-a-Beat-using-Solenoids/?ALLSTEPS](http://www.instructables.com/id/Make-a-Beat-using-Solenoids/?ALLSTEPS)
 * [http://makezine.com/projects/make-robotic-drum-using-arduino-uno/](http://makezine.com/projects/make-robotic-drum-using-arduino-uno/)
-* [http://nrqm.ca/robot-drummer/(http://nrqm.ca/robot-drummer/)
+* [http://nrqm.ca/robot-drummer/](http://nrqm.ca/robot-drummer/)
 

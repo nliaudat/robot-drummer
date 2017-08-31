@@ -32,6 +32,7 @@ made as project for carnival 2015
 * "Img_Vid" folder for hardware
 * "Arduino" folder for logics
 * "Fritzing" folder for wiring and electronic bom
+* (https://github.com/nliaudat/robot-drummer/raw/master/voltage_regulator.md)Voltage regulator (optional)
 
 ### Got inspiration from : 
 * [https://vitomakes.wordpress.com/2013/11/22/deep-inside-the-fork-o-drumbot/](https://vitomakes.wordpress.com/2013/11/22/deep-inside-the-fork-o-drumbot/)

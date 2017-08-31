@@ -1,18 +1,5 @@
-<html><head>
-<meta http-equiv="content-type" content="text/html; charset=windows-1252"><title> ratm.net: tabs </title>
-</head><body alink="#9F9F9F" link="#000000" vlink="#000000">
-<font face="Arial" size="2">
-Rage Against the Machine<br>
-<font size="3"><b>Bombtrack</b></font><br>
-<br>
-Album: Rage Against the Machine<br>
-Tablature: Drums<br>
-Source: unknown<br>
-Transcribed By: unknown
-<br>
-<hr>
-</font>
-<pre>
+Album: Rage Against the Machine
+
  |---repeat-5x----|---repeat-1x----|
 S|----------------|oooooooooooooooo|
 B|----------------|oooooooooooooooo|
@@ -117,5 +104,3 @@ Repeat Chorus (last measure different plus one measure)
         S|----o-------o---|----o-----------|
         B|o-o---oo-oo-o-o-|--o-o-o---------|
 
-
-</pre></body></html>

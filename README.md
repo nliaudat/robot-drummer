@@ -38,17 +38,17 @@ It uses door lock actuators cause it's strength, low cost and enduring
 * 5V Voltage regulator (DIY manual included in Fritzing schema) (0.5$)
 * RGB led strip (5$) (!! Do care : some are +12V and other -12V)
 
-### Construction : 
+## Construction : 
 * "Img_Vid" folder for hardware
 * "Arduino" folder for logics
 * "Fritzing" folder for wiring and electronic bom
 * [Relays and isolation considerations](8-channel_module.md.md)
 * [Voltage regulator (optional but recommended)](voltage_regulator.md)
 
-### Drum tab : 
+## Drum tab : 
 * [How to make a new onboard riff based on drum tab](Drum-tab/drumtab.md)
 
-### Got inspiration from : 
+## Got inspiration from : 
 * [https://vitomakes.wordpress.com/2013/11/22/deep-inside-the-fork-o-drumbot/](https://vitomakes.wordpress.com/2013/11/22/deep-inside-the-fork-o-drumbot/)
 * [http://blog.stef.be/drummerbot](http://blog.stef.be/drummerbot)
 * [http://www.instructables.com/id/Arduino-Controlled-Robotic-Drum/?ALLSTEPS](http://www.instructables.com/id/Arduino-Controlled-Robotic-Drum/?ALLSTEPS)

@@ -31,7 +31,7 @@
 ### Construction : 
 * "Img_Vid" folder for hardware
 * "Arduino" folder for logics
-* ["Fritzing" folder for wiring and electronic bom] (./Fritzing/)
+* "Fritzing" folder for wiring and electronic bom
 * [Relays and isolation considerations](8-channel_module.md.md)
 * [Voltage regulator (optional but recommended)](voltage_regulator.md)
 

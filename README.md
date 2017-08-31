@@ -29,7 +29,9 @@ made as project for carnival 2015
 * RGB led strip (5$)
 
 ### Construction : 
-Look in "Img_Vid" folder 
+* "Img_Vid" folder for hardware
+* "Arduino" folder for logics
+* "Fritzing" folder for wiring and electronic bom
 
 ### Got inspiration from : 
 * [https://vitomakes.wordpress.com/2013/11/22/deep-inside-the-fork-o-drumbot/](https://vitomakes.wordpress.com/2013/11/22/deep-inside-the-fork-o-drumbot/)

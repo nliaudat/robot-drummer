@@ -45,7 +45,7 @@ It uses door lock actuators cause it's strength, low cost and enduring
 * [Relays and isolation considerations](8-channel_module.md.md)
 * [Voltage regulator (optional but recommended)](voltage_regulator.md)
 
-### How to make a new onboard riff based on drum tab : 
+### Drum tab : 
 * [How to make a new onboard riff based on drum tab](Drum-tab/drumtab.md)
 
 ### Got inspiration from : 

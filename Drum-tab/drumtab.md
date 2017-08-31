@@ -31,13 +31,13 @@ const static char PROGMEM pattern_num[6][36] = { //36 = pattern lenght + 1 null 
 
 ### Drumcodes 
 ```
-"-", //nothing
-"|", //end of measure
-"x", //hit (snare or closed hi-hat)
-"o", //hit on open hi-hat
-"h", //hit on 1/2 open hi-hat
-"p", //hi-hat pedal
-"f"};// hit with 2 hands (considered as simple hit)
+"-" = nothing
+"|" = end of measure
+"x" = hit (snare or closed hi-hat)
+"o" = hit on open hi-hat
+"h" = hit on 1/2 open hi-hat
+"p" = hi-hat pedal
+"f" = hit with 2 hands (considered as simple hit)
 ```
 
 **MAJ letter are for loud, min are for normal**

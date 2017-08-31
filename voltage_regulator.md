@@ -7,3 +7,7 @@
 
 ### Sample
 [![N|Solid](https://github.com/nliaudat/robot-drummer/raw/master/Img_Vid/12V_voltage_regulator.jpg)]
+
+
+### Schematic
+[![N|Solid](https://github.com/nliaudat/robot-drummer/raw/master/Img_Vid/ 	12V_voltage_protection_5v_schematic.jpg)]

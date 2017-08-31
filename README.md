@@ -13,7 +13,7 @@ made as project for carnival 2015
 
 ## Hardware BOM : 
 ### Drums
-* Hi-hat
+* Hi-hat (with pedal)
 * Bass drum
 * Snare drum
 
@@ -27,6 +27,9 @@ made as project for carnival 2015
 ### Optional : 
 * 5V Voltage regulator (DIY manual included in Fritzing schema) (0.5$)
 * RGB led strip (5$)
+
+### Construction : 
+Look in "Img_Vid" folder 
 
 ### Got inspiration from : 
 * [https://vitomakes.wordpress.com/2013/11/22/deep-inside-the-fork-o-drumbot/](https://vitomakes.wordpress.com/2013/11/22/deep-inside-the-fork-o-drumbot/)

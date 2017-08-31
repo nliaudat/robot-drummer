@@ -32,7 +32,8 @@ made as project for carnival 2015
 * "Img_Vid" folder for hardware
 * "Arduino" folder for logics
 * "Fritzing" folder for wiring and electronic bom
-* [Voltage regulator (optional)](voltage_regulator.md)
+* [Relays and isolation considerations](8-channel_module.md.md)
+* [Voltage regulator (optional but recommended)](voltage_regulator.md)
 
 ### Got inspiration from : 
 * [https://vitomakes.wordpress.com/2013/11/22/deep-inside-the-fork-o-drumbot/](https://vitomakes.wordpress.com/2013/11/22/deep-inside-the-fork-o-drumbot/)

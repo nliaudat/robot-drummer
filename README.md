@@ -8,7 +8,6 @@
 * [Demo](https://www.youtube.com/watch?v=v6FhgfrhK6E)
 * [Hi-Hat cymbal moving](https://www.youtube.com/watch?v=v6FhgfrhK6E)
 
-https://www.youtube.com/watch?v=tI9TEDjx_m8
 
 ## Functionalities : 
 * Infrared remote control to setup (speed, riff)

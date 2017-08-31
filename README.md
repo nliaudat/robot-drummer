@@ -26,7 +26,7 @@ made as project for carnival 2015
 
 ### Optional : 
 * 5V Voltage regulator (DIY manual included in Fritzing schema) (0.5$)
-* RGB led strip (5$)
+* RGB led strip (5$) (!! Do care : some are +12V and other -12V)
 
 ### Construction : 
 * "Img_Vid" folder for hardware

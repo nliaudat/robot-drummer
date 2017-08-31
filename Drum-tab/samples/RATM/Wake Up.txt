@@ -1,18 +1,6 @@
-<html><head>
-<meta http-equiv="content-type" content="text/html; charset=windows-1252"><title> ratm.net: tabs </title>
-</head><body alink="#9F9F9F" link="#000000" vlink="#000000">
-<font face="Arial" size="2">
-Rage Against the Machine<br>
-<font size="3"><b>Wake Up</b></font><br>
-<br>
-Album: Rage Against the Machine<br>
-Tablature: Drums<br>
-Source: unknown<br>
-Transcribed By: Kris Smith
+Album: Rage Against the Machine
 
-<hr>
-</font>
-<pre>----------------------------------------------------------------------------
+Transcribed By: Kris Smith
 
 Code:
 
@@ -127,6 +115,3 @@ Part 11 (4x)
 Part 10 (4x)
 
 ----------------------------------------------------------------------------
-</pre>
-
-</body></html>

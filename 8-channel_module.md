@@ -6,5 +6,5 @@ Notice that relay board has a jumper between "Vcc" and "JD-Vcc". Remove it. For 
 
 ### References
 
-https://arduino-info.wikispaces.com/RelayIsolation
-https://www.forward.com.au/pfod/HomeAutomation/OnOffAddRelay/index.html
+* https://arduino-info.wikispaces.com/RelayIsolation
+* https://www.forward.com.au/pfod/HomeAutomation/OnOffAddRelay/index.html

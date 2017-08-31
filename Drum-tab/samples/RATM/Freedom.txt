@@ -1,4 +1,4 @@
-Album: Rage Against the Machine<br>
+Album: Rage Against the Machine
 
 Key:
 cb = High Sounding Cowbell

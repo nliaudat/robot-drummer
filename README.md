@@ -19,7 +19,7 @@ made as project for carnival 2015
 
 ### Electronics : 
 * 4x 12V Door Lock Actuator (2.8$ x 4)
-* 1x 4-Channel Relay Module (2.2$)
+* 1x 8-Channel Relay Module (3.3$)
 * 1x Arduino Mega 2560 (7$)
 * 1x LCD Display Module [1602] (2.15$)
 * 1x Infrared Remote Controller Kit (0.7$)

@@ -2,6 +2,9 @@
 ### An Arduino robotic drummer
 *A funny hack for carnival 2015*
 
+This is an automated, self playing drum machine, which can play an external midi source or preloaded patterns.
+It uses door lock actuators cause it's strength, low cost and enduring
+
 ![alt text](https://github.com/nliaudat/robot-drummer/raw/master/Img_Vid/robot-drummer.jpg "Robot Drum")
 
 ## Videos: 

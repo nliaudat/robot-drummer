@@ -1,5 +1,5 @@
 
-## Make a new riff based on drum tab : 
+## How to make a new onboard riff based on drum tab : 
 
 ### What are drum tabs ?
 

@@ -18,7 +18,7 @@ It uses door lock actuators cause it's strength, low cost and enduring
 * Possible Midi source (direct usb connection, cause Bluetooth module is not finished)
 * LCD display with BPM
 * RGB ledstrip synced with music
-* Each hit can be set as loud, min, normal
+* Each hit can be set as loud or normal
 
 
 ## Hardware BOM : 

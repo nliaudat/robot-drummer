@@ -2,8 +2,6 @@
 ### An Arduino robotic drummer
 *A funny hack for carnival 2015*
 
-[![N|Solid](https://github.com/nliaudat/robot-drummer/raw/master/Img_Vid/robot-drummer.jpg)]
-
 ![alt text](https://github.com/nliaudat/robot-drummer/raw/master/Img_Vid/robot-drummer.jpg "Robot Drum")
 
 ## Functionalities : 

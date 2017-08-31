@@ -4,7 +4,7 @@
 
 [![N|Solid](https://github.com/nliaudat/robot-drummer/raw/master/Img_Vid/robot-drummer.jpg)]
 
-![alt text] (https://github.com/nliaudat/robot-drummer/raw/master/Img_Vid/robot-drummer.jpg "Robot Drum")
+![alt text](https://github.com/nliaudat/robot-drummer/raw/master/Img_Vid/robot-drummer.jpg "Robot Drum")
 
 ## Functionalities : 
 * Infrared remote control to setup (speed, riff)

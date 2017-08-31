@@ -14,18 +14,20 @@
 * http://drumbum.com/drumtabs/
 
 
-### The code for arduino : 
+### How to code for arduino : 
 
+#### Sample code
 ```
-const static char PROGMEM pattern_25[6][36] = { //4:4
-  "|x-x-o-x-x-o-x-x-|o-x-x-o-x-x-o-x-|", //HH
-  "|----o-----o-----|o-----o-----o---|", //SN
-  "|o-----o-o-----o-|o-----o-o-----o-|", //BS
+const static char PROGMEM pattern_num[6][36] = { //36 = pattern lenght + 1 null terminator
+  "|x-x-o-x-x-o-x-x-|o-x-x-o-x-x-o-x-|", //HH : hit-hat
+  "|----o-----o-----|o-----o-----o---|", //SN : snare
+  "|o-----o-o-----o-|o-----o-o-----o-|", //BS : bass
 // |1eta2eta3eta4eta|1eta2eta3eta4eta|
   "4:4 Bossa nova ",
   "4" //tempo
 };
 ```
+
 
 ### Drumcodes 
 ```
@@ -38,4 +40,4 @@ const static char PROGMEM pattern_25[6][36] = { //4:4
 "f"};// hit with 2 hands (considered as simple hit)
 ```
 
-MAJ letter are for loud, min are for normal
+**MAJ letter are for loud, min are for normal**

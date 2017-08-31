@@ -3,7 +3,9 @@
 *A funny hack for carnival 2015*
 
 ![alt text](https://github.com/nliaudat/robot-drummer/raw/master/Img_Vid/robot-drummer.jpg "Robot Drum")
-[![Click to run video](https://img.youtube.com/vi/v6FhgfrhK6E/0.jpg)](https://www.youtube.com/watch?v=v6FhgfrhK6E)
+
+## Videos: 
+[Demo](https://www.youtube.com/watch?v=v6FhgfrhK6E)
 
 ## Functionalities : 
 * Infrared remote control to setup (speed, riff)

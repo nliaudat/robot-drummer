@@ -9,6 +9,7 @@
 
 ### Where to find samples ? 
 
+* ./samples folder
 * http://www.drumtabs.org/
 * http://www.911tabs.com
 * http://drumbum.com/drumtabs/
@@ -29,7 +30,7 @@ const static char PROGMEM pattern_num[6][36] = { //36 = pattern lenght + 1 null 
 ```
 
 
-### Drumcodes 
+#### Drumcodes 
 ```
 "-" = nothing
 "|" = end of measure

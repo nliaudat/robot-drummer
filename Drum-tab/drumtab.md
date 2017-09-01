@@ -15,7 +15,7 @@
 * http://drumbum.com/drumtabs/
 
 
-### How to code for arduino : 
+### How to code for the drummer: 
 
 #### Sample code
 ```
@@ -24,7 +24,7 @@ const static char PROGMEM pattern_num[6][36] = { //36 = pattern lenght + 1 null 
   "|----o-----o-----|o-----o-----o---|", //SN : snare
   "|o-----o-o-----o-|o-----o-o-----o-|", //BS : bass
 // |1eta2eta3eta4eta|1eta2eta3eta4eta|
-  "4:4 Bossa nova ",
+  "4:4 Bossa nova ", //name displaye on LCD
   "4" //tempo
 };
 ```

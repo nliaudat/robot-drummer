@@ -11,6 +11,7 @@ It uses door lock actuators cause it's strength, low cost and enduring
 * [Demo 1](https://www.youtube.com/watch?v=v6FhgfrhK6E)
 * [Demo 2](https://www.youtube.com/watch?v=c7GqC0ccJ8k)
 * [Remote controlled BPM increase](https://www.youtube.com/watch?v=mUgUUxgfKvs)
+* [Remote controlled riff change](https://www.youtube.com/watch?v=ctWj6aDz2b4)
 * [Hi-Hat cymbal moving](https://www.youtube.com/watch?v=tI9TEDjx_m8)
 
 

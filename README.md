@@ -8,7 +8,8 @@ It uses door lock actuators cause it's strength, low cost and enduring
 ![alt text](https://github.com/nliaudat/robot-drummer/raw/master/Img_Vid/robot-drummer.jpg "Robot Drum")
 
 ## Videos: 
-* [Demo](https://www.youtube.com/watch?v=v6FhgfrhK6E)
+* [Demo 1](https://www.youtube.com/watch?v=v6FhgfrhK6E)
+* [Demo 2](https://www.youtube.com/watch?v=c7GqC0ccJ8k)
 * [Hi-Hat cymbal moving](https://www.youtube.com/watch?v=tI9TEDjx_m8)
 
 

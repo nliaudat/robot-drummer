@@ -42,6 +42,7 @@ It uses door lock actuators cause it's strength, low cost and enduring
 
 ### Usage : 
 Plug a 12V battery (cheap chinese lithium are available under 50$)
+
 ![alt text](https://github.com/nliaudat/robot-drummer/raw/master/Img_Vid/remote_control.png "IR remote control")
 
 ## Construction : 

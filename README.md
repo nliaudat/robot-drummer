@@ -17,8 +17,8 @@ It uses door lock actuators cause it's strength, low cost and enduring
 ## Functionalities : 
 * Infrared remote control to setup (speed, riff)
 * 25 preloaded riffs, based on ascii drum tablatures
-* Possible Midi source (direct usb connection, cause Bluetooth module is not finished)
-* LCD display with BPM
+* Possible Midi source (not yet available cause Bluetooth module is not finished, midi source is working on lab)
+* LCD display
 * RGB ledstrip synced with music
 * Each hit can be set as loud or normal
 
@@ -39,6 +39,10 @@ It uses door lock actuators cause it's strength, low cost and enduring
 ### Optional : 
 * 5V Voltage regulator (DIY manual included in Fritzing schema) (0.5$)
 * RGB led strip (5$) (!! Do care : some are +12V and other -12V)
+
+### Usage : 
+Plug a 12V battery (cheap chinese lithium are available under 50$)
+![alt text](https://github.com/nliaudat/robot-drummer/raw/master/Img_Vid/remote_control.png "IR remote control")
 
 ## Construction : 
 * "Img_Vid" folder for hardware

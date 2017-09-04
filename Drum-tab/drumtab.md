@@ -23,8 +23,8 @@ const static char PROGMEM pattern_num[6][36] = { //36 = pattern lenght + 1 null 
   "|x-x-o-x-x-o-x-x-|o-x-x-o-x-x-o-x-|", //HH : hit-hat
   "|----o-----o-----|o-----o-----o---|", //SN : snare
   "|o-----o-o-----o-|o-----o-o-----o-|", //BS : bass
-// |1eta2eta3eta4eta|1eta2eta3eta4eta|
-  "4:4 Bossa nova ", //name displaye on LCD
+// |1eta2eta3eta4eta|1eta2eta3eta4eta| //
+  "4:4 Bossa nova ", //name displayed on LCD
   "4" //tempo
 };
 ```

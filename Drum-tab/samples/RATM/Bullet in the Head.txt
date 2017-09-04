@@ -1,15 +1,15 @@
 Album: Rage Against the Machine
 
-C=3DCymbal
-S=3DSnare Drum
-B=3DBass Drum
-t=3DSmall Tom
-T=3DLarge Tom
-F=3DFloor Tom
-x =3D Hi-Hat, Cymbal, Ride Cym
-X =3D Open Hi-Hat, Bell of Ride
-o =3D Snare, Toms, Bass
-O =3D Accented Snare, Toms
+C=Cymbal
+S=Snare Drum
+B=Bass Drum
+t=Small Tom
+T=Large Tom
+F=Floor Tom
+x =Hi-Hat, Cymbal, Ride Cym
+X =Open Hi-Hat, Bell of Ride
+o =Snare, Toms, Bass
+O =Accented Snare, Toms
 
 
 
